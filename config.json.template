@@ -1,0 +1,16 @@
+{
+    "plex": {
+        "hostname": ""
+        "port": 0,
+        "token": ""
+    },
+    "transmission": {
+        "hostname": "", 
+        "apiKey": "",
+        "port": 0, 
+        "urlBase": "", 
+        "ssl": false,
+        "username": "",
+        "password": ""
+    }
+}
